@@ -1,0 +1,13 @@
+{
+    "name": "webchat_sockert_io",
+    "version": "0.1.0",
+    "private": false,
+    "author": {
+        "name": "Rodrigo Zan",
+        "email": "rodzandonadi@gmail.com"
+    },
+    "git": {
+        "url": "https://github.com/rodrigozan/webchat_sockert_io.git",
+        "branch": "master"
+    }
+}
