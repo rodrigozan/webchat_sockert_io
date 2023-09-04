@@ -9,5 +9,10 @@
     "git": {
         "url": "https://github.com/rodrigozan/webchat_sockert_io.git",
         "branch": "master"
+    },
+    "scripts": {
+        "add": "git add .",
+        "commit": "git commit -m 'Installed dependencies'",
+        "push": "npm run add && npm run commit && git push origin master"
     }
 }
